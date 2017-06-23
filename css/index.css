@@ -1,0 +1,70 @@
+body{
+	background: url(../img/serve.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.cover{
+	padding: 0 50px;
+	text-align: center;
+	height: 600px;
+}
+.top-info{
+	text-align: center;
+	margin: 150px 0px 50px 500px;
+}
+.input-group{
+	width: 300px;
+}
+.infoJQ{
+	border: 1px solid #ccc;
+	width: 500px;
+	height: 250px;
+	margin-left: 130px;
+	background-color: white;
+	display: inline-block;
+}
+.safeJQ{
+	border: 1px solid #ccc;
+	width: 500px;
+	height: 250px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 20px;
+}
+.bottom-info{
+	margin-top: 10px;
+	text-align: left;
+	display: none;
+}
+.to-line{
+	display: inline-block;
+	width: 203px;
+	margin-left: 30px;
+}
+.to-line label{
+	width: 70px;
+}
+.line{
+	margin-bottom: 10px;
+}
+.ziti{
+	font-family:  sans-serif;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+}
+.dateInfo{
+	display: inline-block;
+	font-family: "microsoft yahei";
+	font-size: 17px;
+}
+p.firstP{
+	margin-left: 345px;
+	color: red;
+}
+p.secondP{
+	margin-left: 493px;
+	color: greenyellow;
+}
+.mid-info{
+	text-align: left;
+}
